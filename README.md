@@ -6,7 +6,7 @@ The following was created for this project:
 * [Wireframes](wireframes/)
 * [Project Timeline](timeline&userPersona.pdf)
 * [User persona based on provided visitor data](timeline&userPersona.pdf)
-* Guerilla Usability Testing
+* [Guerilla Usability Testing](Feedback.pdf)
 
 The previous information can be found 
 
