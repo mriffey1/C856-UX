@@ -5,7 +5,7 @@ This is a live prototype website created for User Experience Design at Western G
 The following was created for this project:
 * [Wireframes](wireframes/)
 * [Project Timeline](timeline&userPersona.pdf)
-* User persona based on provided visitor data
+* [User persona based on provided visitor data](timeline&userPersona.pdf)
 * Guerilla Usability Testing
 
 The previous information can be found 
