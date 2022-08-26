@@ -8,16 +8,12 @@ The following was created for this project:
 * [User persona based on provided visitor data](timeline&userPersona.pdf)
 * [Guerilla Usability Testing](Feedback.pdf)
 
-The previous information can be found 
-
-
-* Bootstrap
+The website was created with:</br>
+* Bootstrap (CSS)
 * JavaScript
 * HTML5
-* W3C Validated
-* Mobile Responiveness
+
+The website was created with the following in mind:</br>
+* Mobile Responsiveness
 * Static header with navigation always visible
-Responsive, live prototype using bootstrap and JavaScript for mobile responsivness. </br>
-Site was designed for an island called, "Taniti". 
-
-
+* W3C Validated
