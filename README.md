@@ -3,7 +3,7 @@
 To view live prototype, visit: https://mriffey1.github.io/C856-UX/</br></br>
 This is a live prototype website created for User Experience Design at Western Governors University (WGU). </br>
 The following was created for this project:
-* Wireframes
+* [Wireframes](wireframes/)
 * Project Timeline
 * User persona based on provided visitor data
 * Guerilla Usability Testing
